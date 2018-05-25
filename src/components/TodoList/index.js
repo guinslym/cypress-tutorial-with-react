@@ -1,3 +1,4 @@
+// @flow
 import React, {Component} from 'react';
 import TodoItems from '../ToDoItems';
 import './style.css';
